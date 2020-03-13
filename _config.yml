@@ -21,7 +21,7 @@ texture:
   showNav: false
   showPicker: true
   analytics_id: '160619105'
-
+  disqus_shortname: seongilp
 
   # generate social links in footer
   social_links:

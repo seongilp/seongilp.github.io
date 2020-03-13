@@ -18,7 +18,7 @@ texture:
   tagline: Docker, Kubernetes and Kaggle
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
+  showNav: true
   showPicker: false
   analytics_id: '160619105'
 

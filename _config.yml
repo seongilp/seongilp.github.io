@@ -26,9 +26,9 @@ texture:
   # generate social links in footer
   social_links:
 #    twitter: thelehhman
-#    github:  thelehhman
-#    linkedIn: in/thelehhman
-    rss: rss
+    github:  seongilp
+    linkedIn: seongilpark
+#    rss: rss
  
 
 # If you want to link only specific pages in your header, uncomment

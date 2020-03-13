@@ -15,7 +15,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Seongil Park
-  tagline: Developer. Designer
+  tagline: engineer & kaggler
   date_format: "%b %-d, %Y"
   style: purple
   showNav: false
@@ -23,9 +23,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+#    twitter: thelehhman
+#    github:  thelehhman
+#    linkedIn: in/thelehhman
     rss: rss
  
 

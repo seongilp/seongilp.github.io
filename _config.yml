@@ -17,7 +17,7 @@ texture:
   title: Seongil Park
   tagline: Docker, Kubernetes and Kaggle
   date_format: "%b %-d, %Y"
-  style: purple
+  style: black
   showNav: false
   showPicker: false
 

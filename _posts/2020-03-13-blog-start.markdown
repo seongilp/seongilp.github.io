@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Blog Start"
-description: An example post which shows code rendering.
+title:  "5분 만에 GitHub 블로그 만들기"
+description: How to Build GitHub blog in 5 min
 date:   2020-03-13 21:03:36
 categories: Misc
 ---

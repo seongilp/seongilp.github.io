@@ -20,6 +20,8 @@ texture:
   style: black
   showNav: false
   showPicker: false
+  analytics_id: '160619105'
+
 
   # generate social links in footer
   social_links:
@@ -42,3 +44,5 @@ plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
 
+
+160619105

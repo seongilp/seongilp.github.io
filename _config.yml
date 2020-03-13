@@ -19,9 +19,9 @@ texture:
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
-  showPicker: true
+  showPicker: false
   analytics_id: '160619105'
-  disqus_shortname: seongilp
+#  disqus_shortname: seongilp
 
   # generate social links in footer
   social_links:

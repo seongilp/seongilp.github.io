@@ -15,7 +15,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Seongil Park
-  tagline: engineer & kaggler
+  tagline: System Engineer, Kaggler
   date_format: "%b %-d, %Y"
   style: purple
   showNav: false

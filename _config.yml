@@ -38,8 +38,8 @@ texture:
 
 # Build settings
 # theme: texture
-#remote_theme: thelehhman/texture
-remote_theme: poole/hyde
+remote_theme: thelehhman/texture
+#remote_theme: poole/hyde
 
 plugins:
   - jekyll-seo-tag
